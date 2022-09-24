@@ -1,0 +1,20 @@
+--- create all these as test1.py, test2.py, ...
+
+1. Create a program that produces the following output using loops
+
+1000000000
+0100000000
+0010000000
+0001000000
+0000100000
+0000010000
+0000001000
+0000000100
+0000000010
+0000000001
+
+2. Create a program that will create an X, instead of a diagonal
+
+3. Create a program that will receive input from a user about the size of the array, it will validate it
+using try-catch and validating the type and limits, then will create the sample 1, but using the provided
+size by the user 
