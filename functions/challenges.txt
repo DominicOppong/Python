@@ -1,0 +1,13 @@
+1. Create a function that prints the fibonacci sequence
+2. Create a nested function where you can demonstrate the scope of variables.
+
+For example:
+
+func 1 (params 1):
+	some actions
+	func 2 (params 2):
+		some actions with params 1 and params 2
+		func 3 (params 3):
+			some actions with all the variables
+
+Are those actions with shared parameters going to work?
